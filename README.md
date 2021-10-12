@@ -2,7 +2,7 @@
 
 This is a simple terminal program that prints a 3D donut, have fun!
 
-<img src="img/donut.png" alt="Twitter" width="400"/>
+<img src="img/donut.png" alt="Donut" width="400"/>
 
 ## How to run?
 
